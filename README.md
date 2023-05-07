@@ -1,4 +1,4 @@
-# Python-Project-Pacmann - Used-Car-Market
+# Relational-Database-Pacmann - Used-Car-Market
 ### Muhammad Farid Zaki / muhammadfarid.zaki@gmail.com
 
 # PROJECT BACKGROUNDS
